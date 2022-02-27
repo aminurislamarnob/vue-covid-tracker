@@ -1,5 +1,7 @@
 # vue-covid-tracker
 
+<a href="https://ai-vue-covid-tracker.netlify.app/">Live Demo</a>
+
 ## Project setup
 ```
 yarn install
